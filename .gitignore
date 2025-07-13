@@ -1,0 +1,13 @@
+# Los usual
+__pycache__/
+*.pd[cod]
+.sqlite3
+.log
+media/
+.env
+.vscode/
+venv/
+env/
+.venv/
+entorno
+config_bd
